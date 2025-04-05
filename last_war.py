@@ -22,7 +22,7 @@ DEFAULT_CSV = "versus_scores.csv"
 DEFAULT_FRAME_RATE = 1
 DEFAULT_SIMILARITY = 0.5
 
-# Path to the Tesseract executable (modify if needed)
+# Path to the Tesseract executable
 pytesseract.pytesseract.tesseract_cmd = DEFAULT_TESSERACT
 
 
